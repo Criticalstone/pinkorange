@@ -10,6 +10,11 @@ html, body, .section {
   min-height: 100vh;
 }
 
+h1 {
+  font-weight: 200;
+  font-size: 60pt;
+}
+
 p {
   line-height: 2rem;
 }
